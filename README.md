@@ -41,7 +41,9 @@ Our group maintains communication through Slack, Zoom, Class Breakout rooms, and
       - Linear Regression Model
       - Random Forest Regressor Model
       - Decision Tree Regressor Model
-       
+      
+## Results
+![this is an image](https://github.com/Orangexinlan/Self-Assessment/blob/b5a5a84ac65706f819a6a288cec85372d06d56da/Results.png)
   
 ## Conclusion
 
